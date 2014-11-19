@@ -1,0 +1,63 @@
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+html {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+font: normal 100%/1.5;
+-moz-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+-webkit-text-size-adjust: 100%;
+text-size-adjust: 100%;
+}
+
+.logo{
+	size:10px;
+}
+
+.lightgrey{
+	background-color:#C7C7C7;
+}
+
+.grey{
+	background-color:#999999;
+}
+
+.darkgrey{
+	background-color:#5A5A5A;
+}
+
+.white{
+	color:#FFFFFF;
+}
+
+.left{
+	float:left;
+}
+
+.footer{
+	background-color:#999999;
+	overflow:hidden;
+}
+
+.pricebutton{
+	padding-top:7.0000000000rem;
+	padding-bottom:7.000000000rem;
+}
+
+button {
+	font-size: 1em;
+	font-family: sans-serif;
+	color: #5E5E5E;
+	cursor: pointer;
+	width: 100px;
+	height: 60px;
+	text-align:center;
+}
+
+	
