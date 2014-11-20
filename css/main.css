@@ -26,16 +26,16 @@ body {
 }
 
 .lightgrey{
-	background-color:#C7C7C7;
+	background-color:#C9C8C8;
 	margin: 0;
 }
 
 .grey{
-	background-color:#999999;
+	background-color:#C1C0C0;
 }
 
 .darkgrey{
-	background-color:#5A5A5A;
+	background-color:#B7B7B7;
 }
 
 .white{
@@ -57,9 +57,11 @@ dl {
 }
 
 .footer{
-	background-color:#999999;
+	background-color:#B7B7B7;
 	overflow:hidden;
+	width:100%;
 }
+
 
 .pricebutton{
 	padding-top:4.0000000000rem;
@@ -74,6 +76,13 @@ button {
 	width: 100px;
 	height: 60px;
 	text-align:center;
+}
+
+.lob {
+	font-family: 'Lobster Two', cursive;
+}
+
+.mer {font-family: 'Merriweather', serif;
 }
 
 	
