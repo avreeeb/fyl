@@ -109,8 +109,23 @@ button {
 }
 
 .pad-l {
-	padding-left:2.5rem;
+	padding-left:10rem;
+	padding-right: 0.7500rem;
 }
-	
-	
+
+.features{
+	margin:0 auto;
+	padding:0;
+	width:28em;
+	background-color:#none;
+	list-style-type:none;
+
+}
+
+.features img {
+	vertical-align:middle;
+	padding-top:1em;
+	padding-right:1em;
+}
+
 	
