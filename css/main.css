@@ -25,10 +25,6 @@ body {
 	margin: 0;
 }
 
-.grey{
-	background-color:#C1C0C0;
-}
-
 .blue1{
 	background-color:#6FCEE9;
 }
@@ -52,7 +48,7 @@ dl {
 }
 
 .footer{
-	background-color:#B7B7B7;
+	background-color:#5FCAEB;
 	overflow:hidden;
 	width:100%;
 	text-align: center;

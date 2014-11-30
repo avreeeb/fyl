@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 526.1 341.3" enable-background="new 0 0 526.1 341.3" xml:space="preserve">
+	 viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
 <g>
-	<path fill="#A7A9AC" stroke="#58595B" stroke-width="4" stroke-miterlimit="10" d="M476,306.5H44.6c-6.6,0-12-5.4-12-12V53.3
-		c0-6.6,5.4-12,12-12H476c6.6,0,12,5.4,12,12v241.2C488,301.1,482.6,306.5,476,306.5z"/>
-	<polyline fill="#A7A9AC" stroke="#58595B" stroke-width="4" stroke-miterlimit="10" points="37,44.6 264.1,188 481.5,43.5 	"/>
+	<path fill="#FFFFFF" stroke="#6FCDE9" stroke-width="8" stroke-miterlimit="10" d="M573.2,602.5H29.1c-8.3,0-15.1-6.8-15.1-15.1
+		V283.2c0-8.3,6.8-15.1,15.1-15.1h544.1c8.3,0,15.1,6.8,15.1,15.1v304.2C588.3,595.7,581.5,602.5,573.2,602.5z"/>
+	<polyline fill="#FFFFFF" stroke="#6FCDE9" stroke-width="8" stroke-miterlimit="10" points="19.5,272.2 305.9,453.1 580.1,270.8 	
+		"/>
 </g>
 </svg>
