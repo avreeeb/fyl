@@ -1,48 +1,46 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en-ca">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<link href="http://fonts.googleapis.com/css?family=Merriweather:300|Lobster+Two" rel="stylesheet">
-<title>Sign Up</title>
-<link href="css/type.css" rel="stylesheet">
-<link href="css/grids.css" rel="stylesheet">
-<link href="css/main.css" rel="stylesheet">
+ 	<meta charset="utf-8">
+ 	<title>Form</title>
+ 	<link href="css/main.css" rel="stylesheet">
+	<link href="css/grids.css" rel="stylesheet">
+    <link href="css/type.css" rel="stylesheet">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
-
 <body>
-<header align="middle" class="logo blue1"><img src="images/logo.svg" alt="Logo" height="150" width="300"></header>
-
-<h1 align="middle" class="white lob biggest pad-b-2 pad-t blue2"> Find your Lobster Now!</h1>
-
-<div align="middle" class="white blue2 signup pad-b basic-grey">
 
 
-    <div class="gutter">
-    <div class="pad-t">
-		<label for="gender tera">Gender</label>
-    	<select class="gutter" id="gender">
-    	<option selected>Male</option>
-        <option>Female</option>
-        </select>
-    </div>
+<div class="basic-grey white">
+<form action="" method="post" class="STYLE-NAME">
+    <h1 class="lob white pad-b" align="middle">Find your Lobster Now 
+        <span class="mer pad-t-1-2" align="middle">Please fill all the texts in the fields.</span>
+    </h1>
     
-        
-        <p class="pad-t micro gutter"> Seeking a... </p>
-        
-       
-       <label for="gender tera">Gender</label>
-    	<select id="gender">
-    	<option>Male</option>
-        <option selected>Female</option>
+    <p align="middle"> I am a:</p>
+
+    
+        <label>
+        <span>Gender:</span><select name="selection">
+    	<option selected>Male</option>
+    	<option>Female</option>
         </select>
-        
-        <p class="pad-t margin"> Birthdate </p>
-        
-        
-		<div class="pad-b milli">
-        <label for="month">Month</label>
-    	<select id="month">
+    </label>
+    
+    <p align="middle"> Seeking a:</p>
+    
+    <label>
+        <span>Gender:</span><select name="selection">
+    	<option>Male</option>
+    	<option selected>Female</option>
+        </select>
+    </label>
+    
+     <p align="middle"> Your Birthday:</p>
+    
+    
+    <label>
+        <span>Month:</span><select name="selection">
     	<option selected>January</option>
     	<option>February</option>
     	<option>March</option>
@@ -56,9 +54,11 @@
     	<option>November</option>
     	<option>December</option>
         </select>
-        
-        <label for="date">Date</label>
-    	<select id="date">
+    </label>
+    
+    
+    <label>
+        <span>Day:</span><select name="selection">
     	<option selected>01</option>
     	<option>02</option>
     	<option>03</option>
@@ -91,9 +91,12 @@
     	<option>30</option>
     	<option>31</option>
         </select>
-        
-        <label for="year">Year</label>
-    	<select id="year">
+    </label>
+    
+    
+    
+     <label>
+        <span>Year:</span><select name="selection">
     	<option>1920</option>
     	<option>1921</option>
     	<option>1922</option>
@@ -171,16 +174,14 @@
         <option>1994</option>
     	<option>1995</option>
     	<option>1996</option>
-	
         </select>
-
-    </div>
+    </label>
+    
+     <p align="middle"> Where do you live?</p>
     
     
-<div class="pad-b-2">
-
-    <label for="country">Country</label>
-    	<select id="country">
+    <label>
+        <span>Country:</span><select name="selection">
     	<option>Afghanistan</option>
     	<option>Argentina</option>
         <option>Armania</option>
@@ -259,56 +260,41 @@
         <option>Vietnam</option>
     	<option>Zambia</option>
     	<option>Zimbabwe</option>
-	
         </select>
+    </label>
+    
+    
+    
+    
+    
+    <label>
+        <span>City:</span>
+        <input id="email" type="email" name="email" placeholder="Your City" />
+    </label>
+    
+     <p align="middle"> Pick a creative username:</p>
+    
+    
+     <label>
+        <span>Username:</span>
+        <input id="email" type="email" name="email" placeholder="Your Username" />
+    </label>
+    
+     <label>
+        <span>Password:</span>
+        <input id="password" type="password" name="email" />
+    </label>
+    
         
-        <label for="city"> City</label>
-    	<input id="city" class="x100 mer">
-        
-</div>
-</div>
-</div>
-
-<div class="basic-grey blue2">
-<div class="pad-b" align="middle">
-<label for="username"> Username</label>
-    	<input id="username" class="mer">
-        </div>
-        
-        <div class="pad-b" align="middle">
-        <label for="password"> Password</label>
-    	<input id="password" class="" type="password">
-        </div>
-        
-             <div class="island-2 grey" align="middle">
+   <div class="island" align="middle">
 
     	<button class="mer" type="submit">Sign Up</button>
-        </form>
+        
         </div>
-        </div>
-         
-    
-<footer class="footer micro blue1">
-<div role="contentinfo" class="unit footer-grid" style="text-align:center;">
-<nav class="nav-bottom micro">
-
-    <div class="white left gutter-1-2 pad-t-1-2" align="middle">
-    <img src="images/phone.svg" alt="Email" height="50" width="50"> 
-    </div>
-    <div class="white left gutter-1-2 pad-t" align="middle">
-        <p>(613)555-1234</p>
-    </div>
- 
-    <div class="left gutter-1-2 pad-t-1-2 pad-l" align="middle">
-    <img src="images/email.svg" alt="Email" height="50" width="50"> 
-    </div>
-    <div class="white left gutter-1-2 pad-t" align="middle"> 
-        <p>info@fyl.com</p>
-        </div>
-</nav>
+        
+</form>
 </div>
 
-</footer>
-</form>
+
 </body>
 </html>

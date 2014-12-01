@@ -124,22 +124,27 @@ button {
     display: block;
 }
 
+
+
+
+
+
 /* Basic Grey */
 .basic-grey {
     margin-left:auto;
     margin-right:auto;
-    background: #6FCEE9;
+    max-width: 500px;
+    background: #5FCAEB;
     padding: 25px 15px 25px 10px;
-    color: #fff;
-    text-shadow: 1px 1px 1px #A1A1A1;
+    text-shadow: 1px 1px 1px #BDBDBD;
+    border:1px solid #fff;
 }
 .basic-grey h1 {
     font-size: 25px;
     padding: 0px 0px 10px 40px;
     display: block;
     border-bottom:1px solid #E4E4E4;
-    margin: -10px -15px 30px -10px;;
-    color: #888;
+    margin: -10px -15px 30px -10px;
 }
 .basic-grey h1>span {
     display: block;
@@ -155,9 +160,23 @@ button {
     text-align: right;
     padding-right: 10px;
     margin-top: 10px;
-    color: #888;
 }
-.basic-grey input[type="text"], .basic-grey input[type="email"], .basic-grey textarea, .basic-grey select {
+.basic-grey input[type="text"], .basic-grey input[type="password"], .basic-grey input[type="email"], .basic-grey textarea, .basic-grey select {
+    border: 1px solid #DADADA;
+    color: #888;
+    height: 30px;
+    margin-bottom: 16px;
+    margin-right: 6px;
+    margin-top: 2px;
+    outline: 0 none;
+    padding: 3px 3px 3px 5px;
+    width: 70%;
+    font-size: 12px;
+    line-height:15px;
+    box-shadow: inset 0px 1px 4px #ECECEC;
+    -moz-box-shadow: inset 0px 1px 4px #ECECEC;
+    -webkit-box-shadow: inset 0px 1px 4px #ECECEC;
+} .basic-grey input[type="email"], .basic-grey textarea, .basic-grey select {
     border: 1px solid #DADADA;
     color: #888;
     height: 30px;
@@ -173,11 +192,10 @@ button {
     -moz-box-shadow: inset 0px 1px 4px #ECECEC;
     -webkit-box-shadow: inset 0px 1px 4px #ECECEC;
 }
-
-textarea{
-	height:100px;
+.basic-grey textarea{
+    padding: 5px 3px 3px 5px;
 }
-.select {
+.basic-grey select {
     background: #FFF url('down-arrow.png') no-repeat right;
     background: #FFF url('down-arrow.png') no-repeat right);
     appearance:none;
@@ -188,21 +206,13 @@ textarea{
     width: 70%;
     height: 35px;
     line-height: 25px;
+}
+.basic-grey textarea{
+    height:100px;
+}
 
-}
-.basic-grey .button {
-    background: #E27575;
-    border: none;
-    padding: 10px 25px 10px 25px;
-    color: #FFF;
-    box-shadow: 1px 1px 5px #B6B6B6;
-    border-radius: 3px;
-    text-shadow: 1px 1px 1px #9E3F3F;
-    cursor: pointer;
-}
 .basic-grey .button:hover {
     background: #CF7A7A
 }
-
 
 	
