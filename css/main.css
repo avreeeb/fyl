@@ -86,8 +86,8 @@ button {
 	font-family: 'Lobster Two', cursive;
 }
 
-.mer {
-	font-family: 'Merriweather', serif;
+.ruda {
+	font-family: 'Ruda', sans-serif;
 }
 
 .border {
@@ -107,7 +107,7 @@ button {
 .features{
 	margin:0 auto;
 	padding:0;
-	width:28em;
+	width:30em;
 	background-color:#none;
 	list-style-type:none;
 
