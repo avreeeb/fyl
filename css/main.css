@@ -215,4 +215,140 @@ button {
     background: #CF7A7A
 }
 
+
+html {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+font: normal 100%/1.5;
+-moz-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+-webkit-text-size-adjust: 100%;
+text-size-adjust: 100%;
+}
+
+@media only screen and (min-width: 60em) {
+	html {
+		font-size:110%
+	}
+}
+
+@media only screen and (min-width: 90em) {
+	html {
+		font-size:120%
+	}
+}
+
+@media only screen and (min-width: 120em) {
+	html {
+		font-size:130%
+	}
+}
+
+*, *:before, *:after {
+box-sizing: inherit;
+}
+
+body {
+margin: 0;
+padding: 0;
+}
+
+a:focus {
+	outline: 3px solid #000000
+}
+
+.skip-links {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+	
+.skip-links a {
+	position: absolute;
+	top: -3em;
+	background-color: #fff;
+	color:#fff;
+	text-decoration: none;
+	padding: 0.5em 0.7em;
+	font-size:1.25em;
+}
+	
+.skip-links a:focus{
+	top:0;
+}
+
+.nav {
+	list-style-type: none;
+}
+
+
+.nav a:hover,
+.nav a:focus,
+.nav a:active,
+.nav .nav-current,
+.nav .nav-current:link,
+.nav .nav-current:visited {
+	background-color:#5FCAEB;
+}
+	
+
+.photo{
+	background: #fff;
+    margin: none;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0px 0px 10px #888;
+}
+
+@media only screen and (min-width: 25em) {
+.nav li {
+	float: left;
+	text-align: center;
+	padding: 1rem;
+}
+}
+
+@media only screen and (min-width: 38em) {
+.title {
+	text-align: left;
+	padding: 2rem;
+	float: left;
+}
+
+.nav {
+	float: left;
+	text-align: center;
+
+}
+}
+
+@media only screen and (min-width: 60em) {
+
+	.title {
+		text-align: left;
+		padding: 10px;
+		width: 10%; 
+	}
+	
+	.nav li {
+		text-align: left;
+	
+	}
+	
+	.nav{
+    top: 35px;
+    left: 120px;
+
+}
+}
+
+
+
+
+
+
+
 	
