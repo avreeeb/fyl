@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 963 674.9" enable-background="new 0 0 963 674.9" xml:space="preserve">
+	 viewBox="0 0 963 1458.4" enable-background="new 0 0 963 1458.4" xml:space="preserve">
 <rect x="0" y="0" fill="#84D3EA" width="963" height="674.9"/>
 <g>
 	<g>
@@ -57,4 +57,5 @@
 </g>
 <text transform="matrix(1 0 0 1 536.4938 171.9647)" fill="#FFFFFF" font-family="'Oswald-Light'" font-size="76.5">THANK YOU.</text>
 <text transform="matrix(1 0 0 1 543.947 216.1933)" fill="#FFFFFF" font-family="'Oswald-Light'" font-size="29.0925">You will receive an email shortly</text>
+<rect x="0" y="653" fill="#24B5E1" width="963" height="805.5"/>
 </svg>
