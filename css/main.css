@@ -238,6 +238,18 @@ button {
 
 .nav-bottom li {
 	display: block;
+}
+	
+	
+.header {
+  position: fixed !important;
+  width: 100%;
+  z-index: 10000;
+  height:100px;
+  padding-top:30px;
+}
+
+.site { padding-top: 160px; }
 
 
 
