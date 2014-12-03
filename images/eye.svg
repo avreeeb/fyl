@@ -17,13 +17,13 @@
 </g>
 <g>
 	
-		<path fill="#FFFFFF" stroke="#F05B6E" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M312.9,203.1v13.7c131.9,0,259.1,60.1,378.3,178.6c-14.9,16.1-49.4,51.1-99.1,85.7c-39.4,27.4-80.7,49.1-122.4,64.9
-		c-52,19.4-105.1,29.3-158,29.3c-132,0-263.4-60.8-390.8-180.8c16-16.1,52.5-50.1,104.1-84c41.4-27.2,84.3-48.9,127.4-64.5
-		c53.6-19.3,107.7-29.2,160.7-29.2L312.9,203.1 M312.9,203.1c-239.6,0-411.6,191.8-411.6,191.8C51.8,540.5,191.9,589,311.7,589
-		c239.6,0,398.3-194,398.3-194C569.4,251.1,432.7,203.1,312.9,203.1L312.9,203.1z"/>
+		<path fill="#FFFFFF" stroke="#F05B6E" stroke-width="19" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M319.4,213.8v12.8c122.8,0,241.2,55.9,352.1,166.3c-13.8,15-45.9,47.6-92.3,79.8c-36.7,25.5-75.1,45.7-114,60.4
+		c-48.4,18.1-97.9,27.3-147,27.3c-122.9,0-245.2-56.6-363.8-168.2c14.9-15,48.9-46.6,96.9-78.2c38.6-25.3,78.4-45.5,118.6-60.1
+		c49.9-18,100.2-27.2,149.6-27.2L319.4,213.8 M319.4,213.8c-223,0-383.1,178.5-383.1,178.5C76.4,527.8,206.7,573,318.3,573
+		c223,0,370.7-180.6,370.7-180.6C558.1,258.5,430.9,213.8,319.4,213.8L319.4,213.8z"/>
 </g>
-<ellipse fill="#F05B6E" stroke="#F05B6E" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="311" cy="396.5" rx="162.4" ry="161.9"/>
-<circle fill="#F05B6E" stroke="#F05B6E" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="308.2" cy="394.9" r="84.4"/>
-<circle fill="#FFFFFF" stroke="#FFFFFF" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="337.7" cy="369.1" r="30.6"/>
+<ellipse fill="#F05B6E" stroke="#F05B6E" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="317.7" cy="393.8" rx="151.2" ry="150.7"/>
+<circle fill="#F05B6E" stroke="#F05B6E" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="315" cy="392.4" r="78.5"/>
+<circle fill="#FFFFFF" stroke="#FFFFFF" stroke-width="25" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="342.5" cy="368.3" r="28.5"/>
 </svg>

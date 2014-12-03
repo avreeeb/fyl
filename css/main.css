@@ -51,8 +51,10 @@ dl {
 .footer{
 	overflow:hidden;
 	width:100%;
-	text-align: center;
 }
+
+
+
 
 .butt-grid{
 	width:35%;
@@ -228,6 +230,14 @@ button {
     border-radius: 5px;
     padding: 5px;
 }
+
+
+.nav {
+	list-style-type: none;
+}
+
+.nav-bottom li {
+	display: block;
 
 
 
