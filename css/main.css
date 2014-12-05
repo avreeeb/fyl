@@ -122,17 +122,23 @@ dl {
 .features{
 	margin:0 auto;
 	padding:0;
-	width:30em;
+	max-width:30em;
 	background-color:#none;
 	list-style-type:none;
 
+}
+
+.features li{
+	overflow:hidden;
 }
 
 .features img {
 	vertical-align:middle;
 	padding-top:1em;
 	padding-right:1em;
+	float:left;
 }
+
 
 .socialmedia {
     margin: 0% auto;
@@ -263,6 +269,8 @@ dl {
 }
 
 .site { padding-top: 160px; }
+
+.thanks { padding-top: 100px; }
 
 .faq {
 	list-style-type:none;
