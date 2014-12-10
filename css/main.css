@@ -241,6 +241,8 @@ dl {
 
 .grey {
 	color:#F05C6E;
+	margin: 0;
+	text-shadow: 1px 1px 1px #A1A1A1;
 }
 
 .photo{
@@ -273,14 +275,15 @@ dl {
 
 .site { padding-top: 160px; }
 
-.thanks { padding-top: 100px; }
+.thanks { padding-top: 100px;
+display:block; }
 
 .faq {
 	list-style-type:none;
 }
 
 .gray{
-	color:#4F4F4F
+	color:#4F4F4F;
 	text-shadow: 1px 1px 1px #A1A1A1;
 }
 
