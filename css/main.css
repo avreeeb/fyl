@@ -32,7 +32,6 @@ body {
 .white{
 	color:#FFFFFF;
 	margin: 0;
-	text-shadow: 1px 1px 1px #A1A1A1;
 }
 
 dl {
@@ -287,6 +286,16 @@ display:block; }
 	text-shadow: 1px 1px 1px #A1A1A1;
 }
 
+.intro{
+	padding-top:4em;
+	padding-bottom:6em;
+}
+
+.signup{
+	padding-top:6em;
+}
+
+	
 
 
 
