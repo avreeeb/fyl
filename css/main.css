@@ -397,7 +397,7 @@ il {
 }
 
 
-.fym { padding-top: 250px; }
+.fym { padding-top: 150px; }
 
 
 .billboard {
@@ -409,7 +409,7 @@ background-position:center;
 background-color: none;
 overflow: hidden;
 position: relative;
-height: 100rem;
+height: 55rem;
 width: 100%;
 
 }
