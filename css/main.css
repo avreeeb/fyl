@@ -22,7 +22,6 @@ body {
 
 .blue2{
 	background-color:#5FCAEB;
-	margin: 0;
 }
 
 .blue1{
@@ -114,7 +113,6 @@ dl {
 	text-align:center;
 	border:#ffffff solid 2px;
 	background: rgba(230,207,207,0.00);
-	padding-bottom:.5em;
 }
 
 
@@ -375,8 +373,28 @@ il {
 	background-color:#707070;
 }
 
+.fym{
+	padding-top:10em;
+}
 
-@media only screen and (min-width: 38em) {
+	.head {
+		font-size: 1.2656rem;
+  		line-height: 1.1852;
+		
+}
+
+.big {
+	font-size:3.55em;
+}
+ 
+ 
+.bluet {
+	color:#5FCAEB;
+}
+
+
+
+@media only screen and (min-width: 40em) {
 	
 	.logo {
 		width:10%;
@@ -394,13 +412,25 @@ il {
 		margin-left:1em;
 		padding-top:1em;
 		padding-bottom:3em;
+		background-color:#5FCAEB;
+		margin-top:0;
 	}
 	
-
-
-@media only screen and (min-width: 60em) {
+	.head {
+		font-size: 3rem;
+  		line-height: 1.1852;
+		
 }
 
+
+@media only screen and (min-width: 28em) {
+	
+	.head {
+		font-size: 4rem;
+  		line-height: 1.1852;
+		
+}
+}
 
 
 
