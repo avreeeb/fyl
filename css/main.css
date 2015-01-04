@@ -180,6 +180,7 @@ dl {
     background: #FFFFFF;
     padding: 25px 15px 25px 10px;
     border:1px solid #fff;
+	margin-top:0;
 }
 .basic-grey h1 {
     font-size: 25px;
@@ -201,7 +202,7 @@ dl {
     width: 20%;
     text-align: right;
     padding-right: 10px;
-    margin-top: 10px;
+    margin-top: 0px;
 }
 .basic-grey input[type="text"], .basic-grey input[type="password"], .basic-grey input[type="email"], .basic-grey textarea, .basic-grey select {
     border: 1px solid #DADADA;
@@ -300,7 +301,7 @@ dl {
 }
 	
 	
-.header {
+.header1 {
   position: fixed !important;
   width: 100%;
   z-index: 10000;
@@ -403,16 +404,24 @@ il {
 
 .billboard {
 margin: inherit;
-background-image: url(../images/fyl.svg);
+background-image: url(../images/hes-her-lobster.jpg);
 background-size: cover;
 background-repeat: no-repeat;
 background-position:center;
 background-color: none;
 overflow: hidden;
 position: relative;
-height: 55rem;
+height: 40rem;
 width: 100%;
 
+}
+
+.billboard-inside {
+background-color: rgba(0,0,0,0.5);
+position: absolute;
+bottom: 3%;
+margin: 0 auto;
+width: 100%;
 }
 
 .thanks {
@@ -439,6 +448,10 @@ width: 100%;
 	width:60%;
 	margin-left:auto; 
 	margin-right:auto;
+}
+
+.masthead {
+overflow: hidden;
 }
 
 
