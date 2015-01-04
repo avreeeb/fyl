@@ -397,7 +397,7 @@ il {
 }
 
 
-.fym { padding-top: 150px; }
+.fym { padding-top: 10px; }
 
 
 .billboard {
@@ -414,19 +414,11 @@ width: 100%;
 
 }
 
-.thanks {
-margin: inherit;
-background-image: url(../images/thankyou.svg);
-background-size: cover;
-background-repeat: no-repeat;
-background-position:center;
-background-color: none;
-overflow: hidden;
-position: relative;
-height: 100rem;
-width: 100%;
-
+.start {
+	width:75%;
 }
+
+
 
 
 @media only screen and (min-width: 40em) {
